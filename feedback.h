@@ -1,5 +1,6 @@
 #ifndef _FEEDBACK_H
 #define _FEEDBACK_H
+/* This code is provided by the instructor*/
 
 #include <string>
 
