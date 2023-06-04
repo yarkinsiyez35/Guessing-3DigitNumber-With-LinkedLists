@@ -1,6 +1,7 @@
 #include "feedback.h"
 #include <string>
 using namespace std;
+/* This code is provided by the instructor*/
 
 int mypower(int a, int b, int m)
 {
